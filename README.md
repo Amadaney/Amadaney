@@ -1,21 +1,24 @@
 <div align="center">
 
-## Hi, I'm Linda 👋
-### IT Engineer · Web Developer · AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2D42&height=180&section=header&text=Linda%20Liu%20Pin&fontSize=42&fontColor=F5DEB3&animation=twinkling&fontAlignY=35&desc=IT%20Engineer%20%C2%B7%20Web%20Dev%20%C2%B7%20AI%20Enthusiast&descAlignY=55&descFontColor=ffffff&descFontSize=15&font=Cinzel"/>
 
-🇪🇨 Ecuador &nbsp;|&nbsp; 📬 linliu.dev@gmail.com &nbsp;|&nbsp; 🔍 Open to work
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=18&duration=3000&pause=1000&color=F5DEB3&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Linda+%F0%9F%91%8B;Building+web+apps+%26+AI+solutions+%F0%9F%A4%96;Always+learning%2C+always+creating+%E2%9C%A8;Open+to+work+%F0%9F%87%AA%F0%9F%87%A8)
+
+
 
 </div>
 
 ---
 
-### About me
+### 🪷 About me
 
 Recent IT graduate passionate about web development and artificial intelligence.
-I enjoy building functional products and I'm constantly exploring new tools and technologies.
+I enjoy building functional products and constantly exploring new tools and technologies.
 
 - 🎓 B.S. Information Technology — UNESUM (2025) · Registered SENESCYT 2026
-- 🤖 Looking to specialize in AI — how it works, how to build it, how to get the most out of it
+- 🤖 Looking to specialize in AI — how it works, how to build it, how to use it
 - 💼 Open to internships and junior roles in web dev or IT
 - 🎨 Into art, drawing and UI/web design
 - 🌱 Always learning · Open to feedback and growth
@@ -25,31 +28,15 @@ I enjoy building functional products and I'm constantly exploring new tools and 
 
 ### 🛠️ Tech Stack
 
+<div align="center">
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,python,flutter,firebase,mysql,git,vscode&theme=dark)
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+</div>
 
 ---
 
@@ -66,5 +53,25 @@ Web app for university students integrating ChatGPT API with Firebase for real-t
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amadaney&show_icons=true&theme=tokyonight&hide_border=true" />
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Amadaney&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F5DEB3&icon_color=7B2D42&text_color=ffffff)
+
+
+
+
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amadaney&layout=compact&hide_border=true&bg_color=0d1117&title_color=F5DEB3&text_color=ffffff)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2D42&height=100&section=footer"/>
+
 </div>
